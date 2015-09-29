@@ -1,9 +1,9 @@
 {
-    "name": "lexik/mailer-bundle",
+    "name": "avtonom/email-template-bundle",
     "type": "symfony-bundle",
-    "description": "This bundle allow you to manage some HTML email templates stored in your database. Templates are written with Twig and use I18N.",
-    "keywords": ["Symfony2", "bundle", "mail", "mailer"],
-    "homepage": "https://github.com/lexik/LexikMailerBundle",
+    "description": "This bundle allow you to manage some HTML email templates stored in your database. Templates are written with Twig.",
+    "keywords": ["Symfony2", "bundle", "mail", "mailer", "email", "email template"],
+    "homepage": "https://github.com/Avtonom/EmailTemplateBundle",
     "license": "MIT",
     "authors": [
         {
